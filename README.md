@@ -2,7 +2,7 @@
 # Angular JS Tutorial 1: Up and Running with Angular JS (lynda.com)
 http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html
 
-
+# Simple Usage of MVC, separate file for the module & controller code
 
 ## Support & Documentation
 
