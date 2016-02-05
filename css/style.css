@@ -316,3 +316,19 @@ a.small {
 .artistinfo .btn {
 
 }
+
+/* some events exposed through ng-animate */
+.artist.ng-enter.ng-enter-active,
+.artist.ng-leave {
+  opacity: 1;
+  height: 80px;
+  overflow: hidden;
+}
+
+.artist.ng-enter.ng-leave-active,
+.artist.ng-enter {
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+}
+
